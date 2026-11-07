@@ -21,6 +21,7 @@
 | <img src="gorseller/permafrost.png" width="40"> | **Permafrost** (Steam, Erken Erişim) | v0.1 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/permafrost-v0.1) |
 | <img src="gorseller/impossiblecreatures.png" width="40"> | **Impossible Creatures** (Steam) | v1.1 | [Kurulum](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/impossiblecreatures-v1.1) |
 | <img src="gorseller/farthestfrontier.png" width="40"> | **Farthest Frontier** (Steam) | v1.0 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/farthestfrontier-v1.0) |
+| <img src="gorseller/farthestfrontier-hile.png" width="40"> | **Farthest Frontier Hile Paneli** (Steam, mod) | v1.0 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/farthestfrontier-hile-v1.0) |
 
 ## Kurulum
 
@@ -34,6 +35,7 @@ Windows **"Bilgisayarınız korundu"** (SmartScreen) derse **Ek bilgi → Yine d
 
 - **Anno 117: Pax Romana:** Oyun dilini **English** bırak, metinler Türkçe görünür. Oyunun yazı tipinde ğ, ı, İ, ş harfleri olmadığı için bunlar g, i, I, s olarak yazılır.
 - **Farthest Frontier:** Oyunu Steam'de **"Play Farthest Frontier (Mono)"** seçeneğiyle başlat ve oyun dilini **English** bırak; metinler Türkçe görünür. Normal sürümle açılan oyun İngilizce kalır.
+- **Farthest Frontier Hile Paneli:** Oyunu Mono seçeneğiyle başlat, bir kayıt yükle ve **F8**'e bas. Türkçe yamayla birlikte de, tek başına da çalışır.
 - **Mist Survival:** Ekranın 16:10 ise oyunda 16:9 bir çözünürlük (ör. 1920×1080) seç; arayüz tam sığar.
 - **Permafrost:** Oyunda **Settings → General → Language → Türkçe**. Oyun Erken Erişim'de; güncellemelerle gelen yeni metinler yama güncellenene kadar İngilizce görünür.
 
