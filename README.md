@@ -18,7 +18,7 @@
 |---|---|---|---|
 | <img src="gorseller/anno117.png" width="40"> | **Anno 117: Pax Romana** (Ubisoft Connect, Steam) | v1.0 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/anno117-v1.0) |
 | <img src="gorseller/mistsurvival.png" width="40"> | **Mist Survival** (Steam) | v1.0 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/mistsurvival-v1.0) |
-| <img src="gorseller/permafrost.png" width="40"> | **Permafrost** (Steam, Erken Erişim) | v0.2 | [Exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/permafrost-v0.2) |
+| <img src="gorseller/permafrost.png" width="40"> | **Permafrost** (Steam, Erken Erişim) | v0.2 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/permafrost-v0.2) |
 | <img src="gorseller/impossiblecreatures.png" width="40"> | **Impossible Creatures** (Steam) | v1.1 | [Kurulum](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/impossiblecreatures-v1.1) |
 | <img src="gorseller/farthestfrontier.png" width="40"> | **Farthest Frontier** (Steam) | v1.2 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/farthestfrontier-v1.2) |
 | <img src="gorseller/farthestfrontier-hile.png" width="40"> | **Farthest Frontier Hile Paneli** (Steam, mod) | v1.0 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/farthestfrontier-hile-v1.0) |
