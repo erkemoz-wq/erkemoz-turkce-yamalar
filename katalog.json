@@ -65,12 +65,12 @@
    "not": {
     "tr": "Oyun dilini English bırak; metinler Türkçe görünür. Oyunun yazı tipinde ğ, ı, İ, ş olmadığı için g, i, I, s yazılır.",
     "en": "Keep the game language set to English; the texts appear in Turkish. The game font lacks ğ, ı, İ and ş, so g, i, I and s are used instead.",
-    "de": "Lass die Spielsprache auf Englisch; die Texte erscheinen auf Türkisch. Der Spielschrift fehlen ğ, ı, İ und ş, daher stehen dort g, i, I und s.",
-    "fr": "Laissez la langue du jeu sur l'anglais ; les textes s'affichent en turc. La police du jeu n'a pas ğ, ı, İ et ş, remplacés par g, i, I et s.",
+    "de": "Lass die Spielsprache auf Englisch; die Texte erscheinen auf Türkisch. Der Schriftart des Spiels fehlen ğ, ı, İ und ş, daher werden g, i, I und s verwendet.",
+    "fr": "Laissez la langue du jeu sur l'anglais ; les textes s'affichent en turc. La police du jeu ne contient pas les caractères ğ, ı, İ et ş ; ils sont remplacés par g, i, I et s.",
     "es": "Deja el idioma del juego en inglés; los textos aparecen en turco. La fuente del juego no tiene ğ, ı, İ ni ş, así que se usan g, i, I y s.",
     "pt": "Deixe o idioma do jogo em inglês; os textos aparecem em turco. A fonte do jogo não tem ğ, ı, İ e ş, por isso aparecem g, i, I e s.",
     "it": "Lascia la lingua del gioco in inglese; i testi appaiono in turco. Il font del gioco non ha ğ, ı, İ e ş, quindi si usano g, i, I e s.",
-    "ru": "Оставьте в игре английский язык — тексты будут на турецком. В шрифте игры нет ğ, ı, İ и ş, поэтому вместо них g, i, I и s."
+    "ru": "Оставьте в игре английский язык — тексты будут на турецком. В шрифте игры нет ğ, ı, İ и ş, поэтому вместо них используются g, i, I и s."
    }
   },
   {
@@ -193,7 +193,7 @@
     "tr": "Ekranın 16:10 ise oyunda 16:9 bir çözünürlük (ör. 1920×1080) seç; arayüz tam sığar.",
     "en": "If your screen is 16:10, choose a 16:9 resolution (e.g. 1920×1080) in the game so the interface fits.",
     "de": "Bei einem 16:10-Bildschirm wähle im Spiel eine 16:9-Auflösung (z. B. 1920×1080), damit die Oberfläche passt.",
-    "fr": "Si votre écran est en 16:10, choisissez une résolution 16:9 (ex. 1920×1080) dans le jeu pour que l'interface tienne.",
+    "fr": "Si votre écran est en 16:10, choisissez une résolution 16:9 (p. ex. 1920×1080) dans le jeu pour que l'interface tienne.",
     "es": "Si tu pantalla es 16:10, elige una resolución 16:9 (p. ej., 1920×1080) en el juego para que la interfaz quepa.",
     "pt": "Se a sua tela for 16:10, escolha uma resolução 16:9 (ex.: 1920×1080) no jogo para a interface caber.",
     "it": "Se lo schermo è 16:10, scegli nel gioco una risoluzione 16:9 (es. 1920×1080) così l'interfaccia ci sta.",
@@ -243,7 +243,7 @@
     "tr": "Türkçe yamaları, modları ve hileleri tek yerden kurar, günceller, kaldırır. Oyun güncellenince uyumsuz yamayı kenara alır.",
     "en": "Installs, updates and removes Turkish patches, mods and cheats in one place. Sets incompatible patches aside when a game updates.",
     "de": "Installiert, aktualisiert und entfernt Türkisch-Patches, Mods und Cheats an einem Ort. Legt nach Spiel-Updates unpassende Patches beiseite.",
-    "fr": "Installe, met à jour et supprime au même endroit patchs turcs, mods et triches. Met de côté les patchs incompatibles après une mise à jour du jeu.",
+    "fr": "Installe, met à jour et supprime au même endroit les patchs turcs, mods et triches. Met de côté les patchs incompatibles après une mise à jour du jeu.",
     "es": "Instala, actualiza y quita en un solo lugar parches en turco, mods y trucos. Aparta los parches incompatibles cuando un juego se actualiza.",
     "pt": "Instala, atualiza e remove em um só lugar patches em turco, mods e trapaças. Deixa de lado patches incompatíveis quando um jogo é atualizado.",
     "it": "Installa, aggiorna e rimuove in un unico posto patch in turco, mod e trucchi. Mette da parte le patch incompatibili quando un gioco si aggiorna.",
