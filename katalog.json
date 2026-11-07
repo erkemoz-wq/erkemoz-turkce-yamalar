@@ -1,0 +1,340 @@
+{
+ "bicim": 1,
+ "guncellendi": "2026-11-07",
+ "oyunlar": [
+  {
+   "id": "anno-117-pax-romana",
+   "ad": "Anno 117: Pax Romana",
+   "steam": 3274580,
+   "ubisoft": [
+    921
+   ],
+   "isaret": "Bin/Win64/Anno117.exe"
+  },
+  {
+   "id": "farthest-frontier",
+   "ad": "Farthest Frontier",
+   "steam": 1044720,
+   "isaret": "Farthest Frontier.exe"
+  },
+  {
+   "id": "impossible-creatures",
+   "ad": "Impossible Creatures",
+   "steam": 324680,
+   "isaret": "IC.exe"
+  },
+  {
+   "id": "mist-survival",
+   "ad": "Mist Survival",
+   "steam": 914620,
+   "isaret": "MistSurvival.exe"
+  },
+  {
+   "id": "permafrost",
+   "ad": "Permafrost",
+   "steam": 2254990,
+   "isaret": "Permafrost.exe"
+  }
+ ],
+ "paketler": [
+  {
+   "id": "anno117-tr",
+   "oyun": "anno-117-pax-romana",
+   "tur": "yama",
+   "surum": "1.0",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/anno117-v1.0/Anno117_TurkceYama_v1.0_erkemoz.zip",
+   "sha256": "124acd1fd5d328bad26c9b6fe17990d89d1bebb5bb2e16f7f61e3e047fbe2b6b",
+   "boyut": 1486830,
+   "kok": "Anno117_TurkceYama_v1.0_erkemoz",
+   "hedef": "mods",
+   "atla": [
+    "KURULUM.txt"
+   ],
+   "dosyalar": {
+    "mods/TurkceYama-erkemoz/modinfo.jsonc": "cb9d6f35bf188bc67ca550fea27094a8e16c2bdb629464bccff49a17edf19897",
+    "mods/TurkceYama-erkemoz/data/base/config/gui/texts_english.xml": "d40b360aee6309de1280fbfa4c349078da15727403cfb6423b58692c2bec90aa"
+   },
+   "uyumlu": [
+    "24988830"
+   ],
+   "kirilgan": false,
+   "cakisan": [
+    "mods/TurkishLanguagePack"
+   ],
+   "sayfa": "https://erkemoz.app/turkce-yamalar/anno-117-pax-romana/",
+   "not": {
+    "tr": "Oyun dilini English bırak; metinler Türkçe görünür. Oyunun yazı tipinde ğ, ı, İ, ş olmadığı için g, i, I, s yazılır.",
+    "en": "Keep the game language set to English; the texts appear in Turkish. The game font lacks ğ, ı, İ and ş, so g, i, I and s are used instead.",
+    "de": "Lass die Spielsprache auf Englisch; die Texte erscheinen auf Türkisch. Der Spielschrift fehlen ğ, ı, İ und ş, daher stehen dort g, i, I und s.",
+    "fr": "Laissez la langue du jeu sur l'anglais ; les textes s'affichent en turc. La police du jeu n'a pas ğ, ı, İ et ş, remplacés par g, i, I et s.",
+    "es": "Deja el idioma del juego en inglés; los textos aparecen en turco. La fuente del juego no tiene ğ, ı, İ ni ş, así que se usan g, i, I y s.",
+    "pt": "Deixe o idioma do jogo em inglês; os textos aparecem em turco. A fonte do jogo não tem ğ, ı, İ e ş, por isso aparecem g, i, I e s.",
+    "it": "Lascia la lingua del gioco in inglese; i testi appaiono in turco. Il font del gioco non ha ğ, ı, İ e ş, quindi si usano g, i, I e s.",
+    "ru": "Оставьте в игре английский язык — тексты будут на турецком. В шрифте игры нет ğ, ı, İ и ş, поэтому вместо них g, i, I и s."
+   }
+  },
+  {
+   "id": "ff-tr",
+   "oyun": "farthest-frontier",
+   "tur": "yama",
+   "surum": "1.2",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/farthestfrontier-v1.2/FarthestFrontier_TurkceYama_v1.2_erkemoz.zip",
+   "sha256": "8031876aafd60c0030102fb944681c2c2ce17b7a854439705a570daa6406ed50",
+   "boyut": 119403,
+   "kok": "",
+   "hedef": "Farthest Frontier (Mono)",
+   "atla": [
+    "KURULUM.txt",
+    "Okubeni.txt"
+   ],
+   "dosyalar": {
+    "Farthest Frontier (Mono)/Mods/FarthestFrontier_TR.dll": "9dc885f09a8ebd5e75865792a36f6935ae07e922c4a782322e3d57f5fba82d86"
+   },
+   "uyumlu": [
+    "23662091"
+   ],
+   "kirilgan": false,
+   "sayfa": "https://erkemoz.app/turkce-yamalar/farthest-frontier/",
+   "not": {
+    "tr": "Oyunu Steam'de \"Play Farthest Frontier (Mono)\" ile başlat ve oyun dilini English bırak.",
+    "en": "Start the game in Steam with \"Play Farthest Frontier (Mono)\" and keep the game language set to English.",
+    "de": "Starte das Spiel in Steam mit „Play Farthest Frontier (Mono)“ und lass die Spielsprache auf Englisch.",
+    "fr": "Lancez le jeu dans Steam avec « Play Farthest Frontier (Mono) » et laissez la langue du jeu sur l'anglais.",
+    "es": "Inicia el juego en Steam con «Play Farthest Frontier (Mono)» y deja el idioma del juego en inglés.",
+    "pt": "Inicie o jogo na Steam com “Play Farthest Frontier (Mono)” e deixe o idioma do jogo em inglês.",
+    "it": "Avvia il gioco su Steam con “Play Farthest Frontier (Mono)” e lascia la lingua del gioco in inglese.",
+    "ru": "Запускайте игру в Steam через «Play Farthest Frontier (Mono)» и оставьте в игре английский язык."
+   }
+  },
+  {
+   "id": "ff-hile",
+   "oyun": "farthest-frontier",
+   "tur": "hile",
+   "surum": "1.0",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/farthestfrontier-hile-v1.0/FarthestFrontier_HilePaneli_v1.0_erkemoz.zip",
+   "sha256": "fd69d9eb9651e3818d67d605afa8fbec8b7c42b5b7e0059a8c765e1174e42daa",
+   "boyut": 42919,
+   "kok": "",
+   "hedef": "Farthest Frontier (Mono)",
+   "atla": [
+    "KURULUM.txt",
+    "Okubeni.txt"
+   ],
+   "dosyalar": {
+    "Farthest Frontier (Mono)/Mods/FarthestFrontier_Hile.dll": "18cc40ecff9c2d04c6ec7d97e2641cc2c1a4e31387ce1446e33e069adbd8c174"
+   },
+   "uyumlu": [
+    "23662091"
+   ],
+   "kirilgan": false,
+   "sayfa": "https://erkemoz.app/turkce-yamalar/farthest-frontier-hile-paneli/",
+   "not": {
+    "tr": "Oyunu Mono seçeneğiyle başlat, bir kayıt yükle ve F8'e bas. Panel şimdilik yalnız Türkçe.",
+    "en": "Start the game with the Mono option, load a save and press F8. The panel is in Turkish only for now.",
+    "de": "Starte das Spiel mit der Mono-Option, lade einen Spielstand und drücke F8. Das Menü gibt es vorerst nur auf Türkisch.",
+    "fr": "Lancez le jeu avec l'option Mono, chargez une sauvegarde et appuyez sur F8. Le menu n'est pour l'instant qu'en turc.",
+    "es": "Inicia el juego con la opción Mono, carga una partida y pulsa F8. Por ahora el panel solo está en turco.",
+    "pt": "Inicie o jogo com a opção Mono, carregue um save e pressione F8. Por enquanto o painel está só em turco.",
+    "it": "Avvia il gioco con l'opzione Mono, carica un salvataggio e premi F8. Per ora il pannello è solo in turco.",
+    "ru": "Запустите игру с вариантом Mono, загрузите сохранение и нажмите F8. Пока панель только на турецком."
+   }
+  },
+  {
+   "id": "ic-tr",
+   "oyun": "impossible-creatures",
+   "tur": "yama",
+   "surum": "1.1",
+   "yontem": "exe",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/impossiblecreatures-v1.1/ImpossibleCreatures_TurkceYama_v1.1_erkemoz.exe",
+   "sha256": "3c1259b7d67699abea72468643379297bfa8c059b215ebac3d01b1c7ce38ceb4",
+   "boyut": 2585768,
+   "isaret": [
+    "TurkceYama_Kaldir.exe"
+   ],
+   "kaldirici": "TurkceYama_Kaldir.exe",
+   "uyumlu": [
+    "6743805"
+   ],
+   "kirilgan": false,
+   "sayfa": "https://erkemoz.app/turkce-yamalar/impossible-creatures/",
+   "not": {
+    "tr": "Bu yama kendi kurulum programıyla kurulur; Windows yönetici izni ister.",
+    "en": "This patch uses its own installer; Windows will ask for administrator permission.",
+    "de": "Dieser Patch hat ein eigenes Installationsprogramm; Windows fragt nach Administratorrechten.",
+    "fr": "Ce patch utilise son propre programme d'installation ; Windows demandera l'autorisation d'administrateur.",
+    "es": "Este parche usa su propio instalador; Windows pedirá permiso de administrador.",
+    "pt": "Este patch usa o próprio instalador; o Windows vai pedir permissão de administrador.",
+    "it": "Questa patch usa un proprio programma di installazione; Windows chiederà l'autorizzazione di amministratore.",
+    "ru": "У этого патча свой установщик; Windows запросит права администратора."
+   }
+  },
+  {
+   "id": "mist-tr",
+   "oyun": "mist-survival",
+   "tur": "yama",
+   "surum": "1.0",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/mistsurvival-v1.0/MistSurvival_TurkceYama_v1.0_erkemoz.zip",
+   "sha256": "8235a8ba1af9487c250688fa14524d335de660729cb75c16c2254c5357eff4d4",
+   "boyut": 3077187,
+   "kok": "MistSurvival_TurkceYama_erkemoz",
+   "hedef": "MistSurv/Content/Paks",
+   "atla": [
+    "KURULUM.txt"
+   ],
+   "dosyalar": {
+    "MistSurv/Content/Paks/MistSurv-Windows_TR_P.pak": "a9b2133034ad02fdf37b9e672aa57594a59f00d5dcd7c81c0bca42d4af9fb190"
+   },
+   "uyumlu": [
+    "20802029"
+   ],
+   "kirilgan": true,
+   "sayfa": "https://erkemoz.app/turkce-yamalar/mist-survival/",
+   "not": {
+    "tr": "Ekranın 16:10 ise oyunda 16:9 bir çözünürlük (ör. 1920×1080) seç; arayüz tam sığar.",
+    "en": "If your screen is 16:10, choose a 16:9 resolution (e.g. 1920×1080) in the game so the interface fits.",
+    "de": "Bei einem 16:10-Bildschirm wähle im Spiel eine 16:9-Auflösung (z. B. 1920×1080), damit die Oberfläche passt.",
+    "fr": "Si votre écran est en 16:10, choisissez une résolution 16:9 (ex. 1920×1080) dans le jeu pour que l'interface tienne.",
+    "es": "Si tu pantalla es 16:10, elige una resolución 16:9 (p. ej., 1920×1080) en el juego para que la interfaz quepa.",
+    "pt": "Se a sua tela for 16:10, escolha uma resolução 16:9 (ex.: 1920×1080) no jogo para a interface caber.",
+    "it": "Se lo schermo è 16:10, scegli nel gioco una risoluzione 16:9 (es. 1920×1080) così l'interfaccia ci sta.",
+    "ru": "Если экран 16:10, выберите в игре разрешение 16:9 (например, 1920×1080), чтобы интерфейс поместился."
+   }
+  },
+  {
+   "id": "permafrost-tr",
+   "oyun": "permafrost",
+   "tur": "yama",
+   "surum": "0.1",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/permafrost-v0.1/Permafrost_TurkceYama_v0.1_erkemoz.zip",
+   "sha256": "7d7db6a896acf3f3d3a5bb9caa761dac9ad113a0f98bbea99bf05481fe43198e",
+   "boyut": 1271979,
+   "kok": "Permafrost_TurkceYama_erkemoz",
+   "hedef": "Permafrost/Content/Paks/~mods",
+   "atla": [
+    "KURULUM.txt"
+   ],
+   "dosyalar": {
+    "Permafrost/Content/Paks/~mods/erkemoz_TurkceYama_P.pak": "531fcaf9caceb297047c375f93ea3d8017131d3fa7bbe06e42acd0e96c3e422d"
+   },
+   "uyumlu": [],
+   "kirilgan": true,
+   "durum": "kapali",
+   "sayfa": "https://erkemoz.app/turkce-yamalar/permafrost/",
+   "not": {
+    "tr": "7 Kasım 2026 oyun güncellemesinden sonra yama oyunu çökertiyor; yeni sürüm hazırlanıyor. Çıkınca kendiliğinden kurulur.",
+    "en": "Since the 7 November 2026 game update this patch crashes the game; a new version is being prepared and will install automatically.",
+    "de": "Seit dem Spiel-Update vom 7. November 2026 bringt dieser Patch das Spiel zum Absturz; eine neue Version ist in Arbeit und wird automatisch installiert.",
+    "fr": "Depuis la mise à jour du jeu du 7 novembre 2026, ce patch fait planter le jeu ; une nouvelle version est en préparation et s'installera automatiquement.",
+    "es": "Desde la actualización del juego del 7 de noviembre de 2026 este parche cuelga el juego; se está preparando una nueva versión que se instalará sola.",
+    "pt": "Desde a atualização do jogo de 7 de novembro de 2026 este patch trava o jogo; uma nova versão está sendo preparada e será instalada automaticamente.",
+    "it": "Dall'aggiornamento del gioco del 7 novembre 2026 questa patch manda in crash il gioco; è in preparazione una nuova versione che si installerà da sola.",
+    "ru": "После обновления игры 7 ноября 2026 года патч вызывает вылеты; готовится новая версия, она установится сама."
+   }
+  }
+ ],
+ "programlar": [
+  {
+   "id": "game-mods",
+   "ad": "Erkemoz - Game Mods",
+   "depo": "erkemoz-wq/erkemoz-game-mods",
+   "sayfa": "https://erkemoz.app/game-mods/",
+   "ikon": "https://erkemoz.app/varliklar/gorsel/game-mods/ikon-128.png",
+   "aciklama": {
+    "tr": "Türkçe yamaları, modları ve hileleri tek yerden kurar, günceller, kaldırır. Oyun güncellenince uyumsuz yamayı kenara alır.",
+    "en": "Installs, updates and removes Turkish patches, mods and cheats in one place. Sets incompatible patches aside when a game updates.",
+    "de": "Installiert, aktualisiert und entfernt Türkisch-Patches, Mods und Cheats an einem Ort. Legt nach Spiel-Updates unpassende Patches beiseite.",
+    "fr": "Installe, met à jour et supprime au même endroit patchs turcs, mods et triches. Met de côté les patchs incompatibles après une mise à jour du jeu.",
+    "es": "Instala, actualiza y quita en un solo lugar parches en turco, mods y trucos. Aparta los parches incompatibles cuando un juego se actualiza.",
+    "pt": "Instala, atualiza e remove em um só lugar patches em turco, mods e trapaças. Deixa de lado patches incompatíveis quando um jogo é atualizado.",
+    "it": "Installa, aggiorna e rimuove in un unico posto patch in turco, mod e trucchi. Mette da parte le patch incompatibili quando un gioco si aggiorna.",
+    "ru": "Устанавливает, обновляет и удаляет турецкие патчи, моды и читы в одном месте. Отключает несовместимые патчи после обновления игры."
+   },
+   "sabit": true
+  },
+  {
+   "id": "auto-clicker",
+   "ad": "Erkemoz - Auto Clicker",
+   "depo": "erkemoz-wq/erkemoz-auto-clicker",
+   "sayfa": "https://erkemoz.app/auto-clicker/",
+   "ikon": "https://erkemoz.app/varliklar/gorsel/auto-clicker/ikon-128.png",
+   "aciklama": {
+    "tr": "Tuşları basılı tut ya da tekrar tekrar bas; her yerde otomatik tıkla: sol, sağ, orta tık ya da kendi kombon. Tek kısayolla aç/kapat.",
+    "en": "Hold keys down or press them repeatedly, and auto-click anywhere with left, right, or middle clicks or your own combo — all toggled with a single shortcut.",
+    "de": "Tasten gedrückt halten oder wiederholt drücken und überall automatisch klicken – per Links-, Rechts- oder Mittelklick oder mit deiner eigenen Kombo. Ein- und ausschalten mit nur einem Tastenkürzel.",
+    "fr": "Maintenez des touches enfoncées ou appuyez dessus en boucle ; cliquez automatiquement partout (clic gauche, droit, du milieu ou votre propre combo) — le tout activé et désactivé par un seul raccourci.",
+    "es": "Mantén pulsadas las teclas o púlsalas una y otra vez, y haz clic automático en cualquier lugar con el botón izquierdo, derecho, central o tu propio combo. Se activa y desactiva con un solo atajo.",
+    "pt": "Mantenha teclas pressionadas ou pressione-as repetidamente; clique automaticamente em qualquer lugar com o botão esquerdo, direito, do meio ou com seu próprio combo — liga e desliga com um único atalho.",
+    "it": "Tieni premuti i tasti o premili a ripetizione; clicca automaticamente ovunque con il tasto sinistro, destro, centrale o con la tua combo — attiva e disattiva con una sola scorciatoia.",
+    "ru": "Удерживайте клавиши или нажимайте их раз за разом; кликайте автоматически где угодно — левой, правой, средней кнопкой или своим комбо. Включение и выключение — одним сочетанием клавиш."
+   }
+  },
+  {
+   "id": "channel-analytics",
+   "ad": "Erkemoz - Channel Analytics",
+   "depo": "erkemoz-wq/erkemoz-channel-analytics",
+   "sayfa": "https://erkemoz.app/channel-analytics/",
+   "ikon": "https://erkemoz.app/varliklar/gorsel/channel-analytics/ikon-128.png",
+   "aciklama": {
+    "tr": "YouTube kanalının verilerini sade bir dille gösterir: hangi video neden iyi gitti, izleyici nerede ayrılıyor, sırada ne yapmalı.",
+    "en": "Shows your YouTube channel's data in plain language: which videos worked and why, where viewers drop off, and what to do next.",
+    "de": "Zeigt die Daten deines YouTube-Kanals in klaren Worten: welches Video warum gut lief, wo Zuschauer abspringen und was du als Nächstes tun kannst.",
+    "fr": "Présente les données de votre chaîne YouTube en termes simples : quelles vidéos ont marché et pourquoi, où les spectateurs décrochent, et quoi faire ensuite.",
+    "es": "Muestra los datos de tu canal de YouTube con palabras sencillas: qué vídeos funcionaron y por qué, dónde abandonan los espectadores y qué hacer a continuación.",
+    "pt": "Mostra os dados do seu canal do YouTube em linguagem simples: quais vídeos foram bem e por quê, onde os espectadores desistem e o que fazer em seguida.",
+    "it": "Mostra i dati del tuo canale YouTube in parole semplici: quali video sono andati bene e perché, dove gli spettatori abbandonano e cosa fare dopo.",
+    "ru": "Показывает данные вашего YouTube-канала простым языком: какие видео сработали и почему, где зрители уходят и что делать дальше."
+   }
+  },
+  {
+   "id": "duplicate-finder",
+   "ad": "Erkemoz - Duplicate Finder",
+   "depo": "erkemoz-wq/erkemoz-duplicate-finder",
+   "sayfa": "https://erkemoz.app/duplicate-finder/",
+   "ikon": "https://erkemoz.app/varliklar/gorsel/duplicate-finder/ikon-128.png",
+   "aciklama": {
+    "tr": "Adları farklı olsa bile içeriği birebir aynı dosyaları bulur. Her gruptan bir kopyayı korur, fazlalarını Geri Dönüşüm Kutusu'na ya da karantinaya taşır.",
+    "en": "Finds files with identical content, even when their names differ. Keeps one copy from each group and moves the extras to the Recycle Bin or a quarantine folder.",
+    "de": "Findet Dateien mit identischem Inhalt, auch wenn ihre Namen verschieden sind. Von jeder Gruppe bleibt eine Kopie erhalten, überzählige landen im Papierkorb oder in einem Quarantäne-Ordner.",
+    "fr": "Trouve les fichiers au contenu identique, même si leurs noms diffèrent. Conserve une copie de chaque groupe et déplace les autres vers la Corbeille ou un dossier de quarantaine.",
+    "es": "Encuentra archivos con contenido idéntico aunque tengan nombres distintos. Conserva una copia de cada grupo y mueve las demás a la Papelera de reciclaje o a una carpeta de cuarentena.",
+    "pt": "Encontra arquivos com conteúdo idêntico, mesmo com nomes diferentes. Mantém uma cópia de cada grupo e move as demais para a Lixeira ou para uma pasta de quarentena.",
+    "it": "Trova i file con contenuto identico, anche se i nomi sono diversi. Mantiene una copia per gruppo e sposta le altre nel Cestino o in una cartella di quarantena.",
+    "ru": "Находит файлы с одинаковым содержимым, даже если у них разные имена. Оставляет по одной копии из каждой группы, а лишние перемещает в Корзину или в папку карантина."
+   }
+  },
+  {
+   "id": "pdf-toolkit",
+   "ad": "Erkemoz - PDF Toolkit",
+   "depo": "erkemoz-wq/erkemoz-pdf-toolkit",
+   "sayfa": "https://erkemoz.app/pdf-toolkit/",
+   "ikon": "https://erkemoz.app/varliklar/gorsel/pdf-toolkit/ikon-128.png",
+   "aciklama": {
+    "tr": "PDF'teki yazıyı düzenler; yazı, imza ve kaşe ekler. Birleştirir, böler, sıkıştırır ve şifreler; Word, Excel ve resim dönüşümlerini yapar. Hepsi bilgisayarında.",
+    "en": "Edits the text in your PDFs and adds text, signatures and stamps. Merges, splits, compresses and password-protects PDFs, and converts to and from Word, Excel and images. All on your own PC.",
+    "de": "Bearbeitet Text in PDFs und fügt Text, Unterschriften und Stempel hinzu. Führt PDFs zusammen, teilt, komprimiert und schützt sie mit Kennwort und wandelt sie in und aus Word, Excel und Bildern um. Alles auf deinem eigenen PC.",
+    "fr": "Modifie le texte de tes PDF et y ajoute du texte, une signature ou un tampon. Fusionne, divise, compresse et protège tes PDF par mot de passe, et convertit depuis et vers Word, Excel et images. Le tout sur ton PC.",
+    "es": "Edita el texto de tus PDF y añade texto, firmas y sellos. Combina, divide, comprime y protege con contraseña tus PDF, y convierte desde y hacia Word, Excel e imágenes. Todo en tu propio PC.",
+    "pt": "Edita o texto dos seus PDFs e adiciona texto, assinaturas e carimbos. Mescla, divide, compacta e protege PDFs com senha, e converte de e para Word, Excel e imagens. Tudo no seu próprio PC.",
+    "it": "Modifica il testo dei tuoi PDF e aggiunge testo, firme e timbri. Unisce, divide, comprime e protegge con password i PDF, e converte da e verso Word, Excel e immagini. Tutto sul tuo PC.",
+    "ru": "Редактирует текст в PDF и добавляет текст, подписи и печати. Объединяет, разделяет, сжимает и защищает PDF паролем, преобразует в Word, Excel и изображения и обратно. Всё на твоём компьютере."
+   }
+  },
+  {
+   "id": "video-downloader",
+   "ad": "Erkemoz - Video Downloader",
+   "depo": "erkemoz-wq/erkemoz-video-downloader",
+   "sayfa": "https://erkemoz.app/video-downloader/",
+   "ikon": "https://erkemoz.app/varliklar/gorsel/video-downloader/ikon-128.png",
+   "aciklama": {
+    "tr": "Herkese açık videoları, oynatma listelerini ve kanalları 4K'ya kadar indirir ya da yalnız sesini alır. Korumalı (DRM'li) içeriğe dokunmaz.",
+    "en": "Saves public videos, playlists and channels in up to 4K, or just the audio. Never touches protected (DRM) content.",
+    "de": "Speichert öffentliche Videos, Playlists und Kanäle in bis zu 4K – oder nur den Ton. Geschützte Inhalte (DRM) bleiben unangetastet.",
+    "fr": "Enregistre vidéos, playlists et chaînes publiques jusqu'en 4K, ou seulement le son. Ne touche jamais aux contenus protégés (DRM).",
+    "es": "Guarda vídeos, listas y canales públicos hasta en 4K, o solo el audio. Nunca toca contenido protegido (DRM).",
+    "pt": "Salva vídeos, playlists e canais públicos em até 4K, ou só o áudio. Nunca mexe em conteúdo protegido (DRM).",
+    "it": "Salva video, playlist e canali pubblici fino al 4K, o solo l'audio. Non tocca mai i contenuti protetti (DRM).",
+    "ru": "Сохраняет общедоступные видео, плейлисты и каналы в качестве до 4K или только звук. Защищённый (DRM) контент не трогает."
+   }
+  }
+ ]
+}
