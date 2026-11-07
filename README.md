@@ -18,7 +18,7 @@
 |---|---|---|---|
 | <img src="gorseller/anno117.png" width="40"> | **Anno 117: Pax Romana** (Ubisoft Connect, Steam) | v1.0 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/anno117-v1.0) |
 | <img src="gorseller/mistsurvival.png" width="40"> | **Mist Survival** (Steam) | v1.0 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/mistsurvival-v1.0) |
-| <img src="gorseller/permafrost.png" width="40"> | **Permafrost** (Steam, Erken Erişim) | v0.1 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/permafrost-v0.1) |
+| <img src="gorseller/permafrost.png" width="40"> | **Permafrost** (Steam, Erken Erişim) ⚠️ *7 Kasım güncellemesinden sonra çalışmıyor, yeni sürüm hazırlanıyor* | v0.1 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/permafrost-v0.1) |
 | <img src="gorseller/impossiblecreatures.png" width="40"> | **Impossible Creatures** (Steam) | v1.1 | [Kurulum](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/impossiblecreatures-v1.1) |
 | <img src="gorseller/farthestfrontier.png" width="40"> | **Farthest Frontier** (Steam) | v1.2 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/farthestfrontier-v1.2) |
 | <img src="gorseller/farthestfrontier-hile.png" width="40"> | **Farthest Frontier Hile Paneli** (Steam, mod) | v1.0 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/farthestfrontier-hile-v1.0) |
@@ -37,7 +37,7 @@ Windows **"Bilgisayarınız korundu"** (SmartScreen) derse **Ek bilgi → Yine d
 - **Farthest Frontier:** Oyunu Steam'de **"Play Farthest Frontier (Mono)"** seçeneğiyle başlat ve oyun dilini **English** bırak; metinler Türkçe görünür. Normal sürümle açılan oyun İngilizce kalır.
 - **Farthest Frontier Hile Paneli:** Oyunu Mono seçeneğiyle başlat, bir kayıt yükle ve **F8**'e bas. Türkçe yamayla birlikte de, tek başına da çalışır.
 - **Mist Survival:** Ekranın 16:10 ise oyunda 16:9 bir çözünürlük (ör. 1920×1080) seç; arayüz tam sığar.
-- **Permafrost:** Oyunda **Settings → General → Language → Türkçe**. Oyun Erken Erişim'de; güncellemelerle gelen yeni metinler yama güncellenene kadar İngilizce görünür.
+- **Permafrost:** ⚠️ 7 Kasım 2026 oyun güncellemesinden sonra yama oyunu çökertiyor; yeni sürüm hazırlanıyor. Kurduysan Denetim Masası'ndan kaldır ya da `Permafrost\Content\Paks\~mods` içindeki `erkemoz_TurkceYama_P.pak` dosyasını sil. Oyunda **Settings → General → Language → Türkçe**. Oyun Erken Erişim'de; güncellemelerle gelen yeni metinler yama güncellenene kadar İngilizce görünür.
 
 ## Bilmen gerekenler
 
