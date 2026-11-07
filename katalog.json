@@ -34,6 +34,12 @@
    "ad": "Permafrost",
    "steam": 2254990,
    "isaret": "Permafrost.exe"
+  },
+  {
+   "id": "enshrouded",
+   "ad": "Enshrouded",
+   "steam": 1203620,
+   "isaret": "enshrouded.exe"
   }
  ],
  "paketler": [
@@ -231,6 +237,39 @@
     "pt": "Deixe o idioma do jogo em inglês; os textos aparecem em turco. O jogo está em acesso antecipado; textos novos das atualizações podem ficar em inglês até o patch ser atualizado.",
     "it": "Lascia la lingua del gioco in inglese; i testi appaiono in turco. Il gioco è in accesso anticipato; i nuovi testi degli aggiornamenti possono restare in inglese finché la patch non viene aggiornata.",
     "ru": "Оставьте в игре английский язык — тексты будут на турецком. Игра в раннем доступе; новые тексты из обновлений могут оставаться на английском, пока патч не обновится."
+   }
+  },
+  {
+   "id": "enshrouded-editor",
+   "oyun": "enshrouded",
+   "tur": "editor",
+   "surum": "1.0.2",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/enshrouded-save-editor-v1.0.2/EnshroudedSaveEditor_Turkce_v1.0.2_erkemoz.zip",
+   "sha256": "aa4f32d333c2d098d6cdddfe56cad02bb57680c551ed6a3582b1797e87520293",
+   "boyut": 18721208,
+   "kok": "EnshroudedSaveEditor_Turkce_erkemoz",
+   "hedef": "erkemoz_SaveEditor",
+   "atla": [],
+   "dosyalar": {
+    "erkemoz_SaveEditor/Enshrouded Save Editor TR.exe": "c631cb4caef1c4e9a62f7b8299793342d70604d9e11093becababdba634b0f14",
+    "erkemoz_SaveEditor/LISANS.txt": "e8ebe7a3825be88297c6652235cc7cbf798235b0df90f11572c5d931011ad7a7",
+    "erkemoz_SaveEditor/OKU.txt": "278c6193a52ec5ddaf80f444e2b09bb48b4e684070df69b3802c9d981a563d12",
+    "erkemoz_SaveEditor/WebView2Loader.dll": "86545b66cdb0603bc26b626fb9ad610cb6e71f28d468f5ea66df23b03dda96d5"
+   },
+   "calistir": "erkemoz_SaveEditor/Enshrouded Save Editor TR.exe",
+   "uyumlu": [],
+   "kirilgan": false,
+   "durum": "aktif",
+   "sayfa": "https://erkemoz.app/turkce-yamalar/enshrouded-save-editor/",
+   "not": {
+    "tr": "Program oyun klasöründeki erkemoz_SaveEditor klasörüne kurulur; kurulunca karttaki “Aç” düğmesiyle başlat. Kayıtları oyun kapalıyken düzenle; program kaydetmeden önce yedek alır.",
+    "en": "The program is installed into the erkemoz_SaveEditor folder inside the game folder; once installed, start it with the “Open” button on the card. Edit saves with the game closed; the program makes a backup before saving.",
+    "de": "Das Programm wird im Spielordner in den Ordner erkemoz_SaveEditor installiert; danach startest du es mit der Schaltfläche „Öffnen“ auf der Karte. Bearbeite Spielstände nur bei geschlossenem Spiel; das Programm legt vor dem Speichern eine Sicherung an.",
+    "fr": "Le logiciel s'installe dans le dossier erkemoz_SaveEditor du dossier du jeu ; une fois installé, lancez-le avec le bouton « Ouvrir » de la carte. Modifiez vos sauvegardes jeu fermé ; le logiciel crée une copie de secours avant d'enregistrer.",
+    "es": "El programa se instala en la carpeta erkemoz_SaveEditor, dentro de la carpeta del juego; una vez instalado, inícialo con el botón «Abrir» de la tarjeta. Edita las partidas guardadas con el juego cerrado; el programa hace una copia de seguridad antes de guardar.",
+    "pt": "O programa é instalado na pasta erkemoz_SaveEditor, dentro da pasta do jogo; depois de instalado, inicie-o pelo botão “Abrir” no cartão. Edite os saves com o jogo fechado; o programa faz um backup antes de salvar.",
+    "it": "Il programma si installa nella cartella erkemoz_SaveEditor, dentro la cartella del gioco; una volta installato, avvialo con il pulsante “Apri” sulla scheda. Modifica i salvataggi a gioco chiuso; il programma fa un backup prima di salvare.",
+    "ru": "Программа устанавливается в папку erkemoz_SaveEditor внутри папки игры; после установки запускайте её кнопкой «Открыть» на карточке. Редактируйте сохранения при закрытой игре: перед сохранением программа делает резервную копию."
    }
   }
  ],
