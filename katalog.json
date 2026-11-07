@@ -204,31 +204,33 @@
    "id": "permafrost-tr",
    "oyun": "permafrost",
    "tur": "yama",
-   "surum": "0.1",
-   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/permafrost-v0.1/Permafrost_TurkceYama_v0.1_erkemoz.zip",
-   "sha256": "7d7db6a896acf3f3d3a5bb9caa761dac9ad113a0f98bbea99bf05481fe43198e",
-   "boyut": 1271979,
+   "surum": "0.2",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/permafrost-v0.2/Permafrost_TurkceYama_v0.2_erkemoz.zip",
+   "sha256": "4f80429575d4b3a5f455297ac684f2709dfd81ed6134678a6d5f33e8ed559c23",
+   "boyut": 611394,
    "kok": "Permafrost_TurkceYama_erkemoz",
    "hedef": "Permafrost/Content/Paks/~mods",
    "atla": [
     "KURULUM.txt"
    ],
    "dosyalar": {
-    "Permafrost/Content/Paks/~mods/erkemoz_TurkceYama_P.pak": "531fcaf9caceb297047c375f93ea3d8017131d3fa7bbe06e42acd0e96c3e422d"
+    "Permafrost/Content/Paks/~mods/erkemoz_TurkceYama_P.pak": "1e9b762011e75d430e57c50f32b50af8a4ac9cb9ed70be97275cfe9c51acd562"
    },
-   "uyumlu": [],
+   "uyumlu": [
+    "26381546"
+   ],
    "kirilgan": true,
-   "durum": "kapali",
+   "durum": "aktif",
    "sayfa": "https://erkemoz.app/turkce-yamalar/permafrost/",
    "not": {
-    "tr": "7 Kasım 2026 oyun güncellemesinden sonra yama oyunu çökertiyor; yeni sürüm hazırlanıyor. Çıkınca kendiliğinden kurulur.",
-    "en": "Since the 7 November 2026 game update this patch crashes the game; a new version is being prepared and will install automatically.",
-    "de": "Seit dem Spiel-Update vom 7. November 2026 bringt dieser Patch das Spiel zum Absturz; eine neue Version ist in Arbeit und wird automatisch installiert.",
-    "fr": "Depuis la mise à jour du jeu du 7 novembre 2026, ce patch fait planter le jeu ; une nouvelle version est en préparation et s'installera automatiquement.",
-    "es": "Desde la actualización del juego del 7 de noviembre de 2026 este parche cuelga el juego; se está preparando una nueva versión que se instalará sola.",
-    "pt": "Desde a atualização do jogo de 7 de novembro de 2026 este patch trava o jogo; uma nova versão está sendo preparada e será instalada automaticamente.",
-    "it": "Dall'aggiornamento del gioco del 7 novembre 2026 questa patch manda in crash il gioco; è in preparazione una nuova versione che si installerà da sola.",
-    "ru": "После обновления игры 7 ноября 2026 года патч вызывает вылеты; готовится новая версия, она установится сама."
+    "tr": "Oyunun dil ayarını English bırak; metinler Türkçe görünür. Oyun Erken Erişim'de; güncellemelerle gelen yeni metinler yama güncellenene kadar İngilizce kalabilir.",
+    "en": "Keep the game language set to English; the texts appear in Turkish. The game is in Early Access; new texts from updates may stay in English until the patch is updated.",
+    "de": "Lass die Spielsprache auf Englisch; die Texte erscheinen auf Türkisch. Das Spiel ist im Early Access; neue Texte aus Updates können bis zum Patch-Update englisch bleiben.",
+    "fr": "Laissez la langue du jeu sur l'anglais ; les textes s'affichent en turc. Le jeu est en accès anticipé ; les nouveaux textes des mises à jour peuvent rester en anglais jusqu'à la mise à jour du patch.",
+    "es": "Deja el idioma del juego en inglés; los textos aparecen en turco. El juego está en acceso anticipado; los textos nuevos de las actualizaciones pueden quedar en inglés hasta que se actualice el parche.",
+    "pt": "Deixe o idioma do jogo em inglês; os textos aparecem em turco. O jogo está em acesso antecipado; textos novos das atualizações podem ficar em inglês até o patch ser atualizado.",
+    "it": "Lascia la lingua del gioco in inglese; i testi appaiono in turco. Il gioco è in accesso anticipato; i nuovi testi degli aggiornamenti possono restare in inglese finché la patch non viene aggiornata.",
+    "ru": "Оставьте в игре английский язык — тексты будут на турецком. Игра в раннем доступе; новые тексты из обновлений могут оставаться на английском, пока патч не обновится."
    }
   }
  ],
