@@ -1,6 +1,6 @@
 {
  "bicim": 1,
- "guncellendi": "2026-11-07",
+ "guncellendi": "2026-11-08",
  "oyunlar": [
   {
    "id": "anno-117-pax-romana",
@@ -116,18 +116,26 @@
    "id": "ff-hile",
    "oyun": "farthest-frontier",
    "tur": "hile",
-   "surum": "1.0",
-   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/farthestfrontier-hile-v1.0/FarthestFrontier_HilePaneli_v1.0_erkemoz.zip",
-   "sha256": "fd69d9eb9651e3818d67d605afa8fbec8b7c42b5b7e0059a8c765e1174e42daa",
-   "boyut": 42919,
+   "surum": "1.1",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/farthestfrontier-hile-v1.1/FarthestFrontier_HilePaneli_v1.1_erkemoz.zip",
+   "sha256": "1478611d8be7989e37eae8e2e538a743f4861cb65dbf66a8157b53e101c42d93",
+   "boyut": 98751,
    "kok": "",
    "hedef": "Farthest Frontier (Mono)",
    "atla": [
     "KURULUM.txt",
-    "Okubeni.txt"
+    "Okubeni.txt",
+    "Okubeni_tr.txt",
+    "Okubeni_en.txt",
+    "Okubeni_de.txt",
+    "Okubeni_fr.txt",
+    "Okubeni_es.txt",
+    "Okubeni_pt.txt",
+    "Okubeni_it.txt",
+    "Okubeni_ru.txt"
    ],
    "dosyalar": {
-    "Farthest Frontier (Mono)/Mods/FarthestFrontier_Hile.dll": "18cc40ecff9c2d04c6ec7d97e2641cc2c1a4e31387ce1446e33e069adbd8c174"
+    "Farthest Frontier (Mono)/Mods/FarthestFrontier_Hile.dll": "4391f209c9ba7e5c0da8c2e84d7fc8a931ea5cd68cf2d7dc3150dd42eb1c89af"
    },
    "uyumlu": [
     "23662091"
@@ -135,14 +143,14 @@
    "kirilgan": false,
    "sayfa": "https://erkemoz.app/turkce-yamalar/farthest-frontier-hile-paneli/",
    "not": {
-    "tr": "Oyunu Mono seçeneğiyle başlat, bir kayıt yükle ve F8'e bas. Panel şimdilik yalnız Türkçe.",
-    "en": "Start the game with the Mono option, load a save and press F8. The panel is in Turkish only for now.",
-    "de": "Starte das Spiel mit der Mono-Option, lade einen Spielstand und drücke F8. Das Menü gibt es vorerst nur auf Türkisch.",
-    "fr": "Lancez le jeu avec l'option Mono, chargez une sauvegarde et appuyez sur F8. Le menu n'est pour l'instant qu'en turc.",
-    "es": "Inicia el juego con la opción Mono, carga una partida y pulsa F8. Por ahora el panel solo está en turco.",
-    "pt": "Inicie o jogo com a opção Mono, carregue um save e pressione F8. Por enquanto o painel está só em turco.",
-    "it": "Avvia il gioco con l'opzione Mono, carica un salvataggio e premi F8. Per ora il pannello è solo in turco.",
-    "ru": "Запустите игру с вариантом Mono, загрузите сохранение и нажмите F8. Пока панель только на турецком."
+    "tr": "Oyunu Mono seçeneğiyle başlat, bir kayıt yükle ve F8'e bas. Panel 8 dilde: Türkçe yama kuruluysa Türkçe, değilse oyunun diliyle açılır.",
+    "en": "Start the game with the Mono option, load a save and press F8. The panel speaks 8 languages and opens in your game's language (Turkish if the Turkish patch is installed).",
+    "de": "Starte das Spiel mit der Mono-Option, lade einen Spielstand und drücke F8. Das Panel gibt es in 8 Sprachen; es öffnet sich in der Sprache deines Spiels (mit türkischem Patch auf Türkisch).",
+    "fr": "Lancez le jeu avec l'option Mono, chargez une sauvegarde et appuyez sur F8. Le panneau existe en 8 langues et s'ouvre dans la langue de votre jeu (en turc si le patch turc est installé).",
+    "es": "Inicia el juego con la opción Mono, carga una partida y pulsa F8. El panel está en 8 idiomas y se abre en el idioma de tu juego (en turco si tienes el parche turco).",
+    "pt": "Inicie o jogo com a opção Mono, carregue um save e pressione F8. O painel está em 8 idiomas e abre no idioma do seu jogo (em turco se o patch em turco estiver instalado).",
+    "it": "Avvia il gioco con l'opzione Mono, carica un salvataggio e premi F8. Il pannello è in 8 lingue e si apre nella lingua del tuo gioco (in turco se è installata la patch turca).",
+    "ru": "Запустите игру с вариантом Mono, загрузите сохранение и нажмите F8. Панель на 8 языках и открывается на языке игры (на турецком, если установлен турецкий патч)."
    }
   },
   {
