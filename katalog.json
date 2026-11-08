@@ -40,6 +40,12 @@
    "ad": "Enshrouded",
    "steam": 1203620,
    "isaret": "enshrouded.exe"
+  },
+  {
+   "id": "infection-free-zone",
+   "ad": "Infection Free Zone",
+   "steam": 1465460,
+   "isaret": "Infection Free Zone.exe"
   }
  ],
  "paketler": [
@@ -278,6 +284,68 @@
     "pt": "O programa é instalado na pasta erkemoz_SaveEditor, dentro da pasta do jogo; depois de instalado, inicie-o pelo botão “Abrir” no cartão. Edite os saves com o jogo fechado; o programa faz um backup antes de salvar.",
     "it": "Il programma si installa nella cartella erkemoz_SaveEditor, dentro la cartella del gioco; una volta installato, avvialo con il pulsante “Apri” sulla scheda. Modifica i salvataggi a gioco chiuso; il programma fa un backup prima di salvare.",
     "ru": "Программа устанавливается в папку erkemoz_SaveEditor внутри папки игры; после установки запускайте её кнопкой «Открыть» на карточке. Редактируйте сохранения при закрытой игре: перед сохранением программа делает резервную копию."
+   }
+  },
+  {
+   "id": "ifz-hile",
+   "oyun": "infection-free-zone",
+   "tur": "hile",
+   "surum": "1.0",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/infectionfreezone-hile-v1.0/InfectionFreeZone_HilePaneli_v1.0_erkemoz.zip",
+   "sha256": "5f3bf849098514d92351ab3ccd1b636accdfd0d1eb659ed02581016fd77bae99",
+   "boyut": 717573,
+   "kok": "",
+   "hedef": "",
+   "atla": [
+    "KURULUM.txt",
+    "Okubeni_tr.txt",
+    "Okubeni_en.txt",
+    "Okubeni_de.txt",
+    "Okubeni_fr.txt",
+    "Okubeni_es.txt",
+    "Okubeni_pt.txt",
+    "Okubeni_it.txt",
+    "Okubeni_ru.txt"
+   ],
+   "dosyalar": {
+    ".doorstop_version": "75a2f501000d4fe28f74bc7ee66dae5581959d28b6c44f0c1b0c05cd5ba261e6",
+    "BepInEx/core/0Harmony.dll": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031",
+    "BepInEx/core/0Harmony.xml": "d1f02fc3ada3a13da307de421225bfe56ebe24064370980979391c4be021672f",
+    "BepInEx/core/0Harmony20.dll": "c755a5ab2712915a32f9a850d580a8c1b70ff1653bc76600f2767aa8ffccc663",
+    "BepInEx/core/BepInEx.Harmony.dll": "00c8f2ac48593e4d45ce4eb26ce4e68b18113c5c489b38b8bf0850f65830d601",
+    "BepInEx/core/BepInEx.Harmony.xml": "a04fedf08f7c81f5d01aba6f2840a7ffce50b79bbd24587d8dbe69ab73971d29",
+    "BepInEx/core/BepInEx.Preloader.dll": "55d3895351a9d16b63b6f35f1c01b44ac650979e853d0bd3a442b92a082af64f",
+    "BepInEx/core/BepInEx.Preloader.xml": "33275b2783b7b99495a02c098ee86d6a9a2783e884a5c9369021f20c94cf99e7",
+    "BepInEx/core/BepInEx.dll": "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70",
+    "BepInEx/core/BepInEx.xml": "7ba2266061b9f8a9f146218a312bfdd0d7f2b53a99a7e66c957215c6b66ca0d7",
+    "BepInEx/core/HarmonyXInterop.dll": "7ce1342d3afa0334b59a3e38c0aed15e162b9abe9d46f95f34be44af47f3b493",
+    "BepInEx/core/Mono.Cecil.Mdb.dll": "5896d1898f616701fff18f3b2c71e6b844d2390ef9f41e1c5fccce8cb27c698e",
+    "BepInEx/core/Mono.Cecil.Pdb.dll": "174db44a067f58561510af746f3caeb032037762c57a31c8d9ee32db25174984",
+    "BepInEx/core/Mono.Cecil.Rocks.dll": "54ac539fb5ddc8b44c0e9acd0fcb7324f89d1a072edf8ebc1b06dd691e3d3927",
+    "BepInEx/core/Mono.Cecil.dll": "7ae470288fff4a402899c254d0a76cefef55877f5c54f96e83c797cc5bb6e2f6",
+    "BepInEx/core/MonoMod.RuntimeDetour.dll": "40e49bb314391cd7bddc2644f8553eeba92c194b940836b103df16955c464e0c",
+    "BepInEx/core/MonoMod.RuntimeDetour.xml": "54887808960d156550b37d602d08847607aa9e908d039f2765fb0b5e79394aa4",
+    "BepInEx/core/MonoMod.Utils.dll": "9d1495f147ac93c4f81f84538c1a326e8f8a6aefc78d6289d798f3ce1162c5e9",
+    "BepInEx/core/MonoMod.Utils.xml": "0577b362023a3432d6e8d7934c5eddc3e08fdbb19e191af083e341562c5ede38",
+    "BepInEx/plugins/IfzHilePaneli.dll": "e2a934d7b54cc58ae9f10577b201d0dfbb2d0a9dcae95be13774fd992797dd45",
+    "BepInEx_Lisans_LGPL-2.1.txt": "2c4b12be9dbe252c2b77896cf28f42f9d80fe4f1bfe4b02f07b5a79d7c656a0c",
+    "doorstop_config.ini": "4d5c6dfa0f771c6a5b1b0c559aca0bd0ece7d08b08fff894708dc3b73ce73cfc",
+    "winhttp.dll": "8c6cdbc38836dee87e3368f5de1994d7c0ccebf29e4ce7aba3c0981f9375412c"
+   },
+   "uyumlu": [
+    "26104777"
+   ],
+   "kirilgan": false,
+   "sayfa": "https://erkemoz.app/turkce-yamalar/infection-free-zone-hile-paneli/",
+   "not": {
+    "tr": "Mod yükleyicisi BepInEx de birlikte kurulur. Oyunu her zamanki gibi başlat, bir kayıt yükle ve F8'e bas. Panel 8 dilde, oyunun diline kendiliğinden uyar.",
+    "en": "The BepInEx mod loader is installed too. Start the game as usual, load a save and press F8. The panel speaks 8 languages and follows your game language.",
+    "de": "Der Mod-Loader BepInEx wird mitinstalliert. Starte das Spiel wie gewohnt, lade einen Spielstand und drücke F8. Das Panel gibt es in 8 Sprachen; es richtet sich nach der Spielsprache.",
+    "fr": "Le chargeur de mods BepInEx est installé aussi. Lancez le jeu comme d'habitude, chargez une sauvegarde et appuyez sur F8. Le panneau existe en 8 langues et suit la langue du jeu.",
+    "es": "También se instala el cargador de mods BepInEx. Inicia el juego como siempre, carga una partida y pulsa F8. El panel está en 8 idiomas y sigue el idioma del juego.",
+    "pt": "O carregador de mods BepInEx também é instalado. Inicie o jogo normalmente, carregue um save e pressione F8. O painel está em 8 idiomas e segue o idioma do jogo.",
+    "it": "Viene installato anche il caricatore di mod BepInEx. Avvia il gioco come al solito, carica un salvataggio e premi F8. Il pannello è in 8 lingue e segue la lingua del gioco.",
+    "ru": "Вместе с панелью ставится загрузчик модов BepInEx. Запустите игру как обычно, загрузите сохранение и нажмите F8. Панель на 8 языках и подстраивается под язык игры."
    }
   }
  ],
