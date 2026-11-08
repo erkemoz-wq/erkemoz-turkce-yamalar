@@ -21,7 +21,7 @@
 | <img src="gorseller/permafrost.png" width="40"> | **Permafrost** (Steam, Erken Erişim) | v0.2 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/permafrost-v0.2) |
 | <img src="gorseller/impossiblecreatures.png" width="40"> | **Impossible Creatures** (Steam) | v1.1 | [Kurulum](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/impossiblecreatures-v1.1) |
 | <img src="gorseller/farthestfrontier.png" width="40"> | **Farthest Frontier** (Steam) | v1.2 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/farthestfrontier-v1.2) |
-| <img src="gorseller/farthestfrontier-hile.png" width="40"> | **Farthest Frontier Hile Paneli** (Steam, mod) | v1.0 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/farthestfrontier-hile-v1.0) |
+| <img src="gorseller/farthestfrontier-hile.png" width="40"> | **Farthest Frontier Hile Paneli** (Steam, mod, 8 dil) | v1.1 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/farthestfrontier-hile-v1.1) |
 | <img src="gorseller/enshrouded-editor.png" width="40"> | **Enshrouded Save Editor Türkçe** (kayıt düzenleyici; orijinali Nicolas Ferreira, MIT lisansı) | v1.0.2 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/enshrouded-save-editor-v1.0.2) |
 
 ## Kurulum
@@ -38,7 +38,7 @@ Windows **"Bilgisayarınız korundu"** (SmartScreen) derse **Ek bilgi → Yine d
 
 - **Anno 117: Pax Romana:** Oyun dilini **English** bırak, metinler Türkçe görünür. Oyunun yazı tipinde ğ, ı, İ, ş harfleri olmadığı için bunlar g, i, I, s olarak yazılır.
 - **Farthest Frontier:** Oyunu Steam'de **"Play Farthest Frontier (Mono)"** seçeneğiyle başlat ve oyun dilini **English** bırak; metinler Türkçe görünür. Normal sürümle açılan oyun İngilizce kalır.
-- **Farthest Frontier Hile Paneli:** Oyunu Mono seçeneğiyle başlat, bir kayıt yükle ve **F8**'e bas. Türkçe yamayla birlikte de, tek başına da çalışır.
+- **Farthest Frontier Hile Paneli:** Oyunu Mono seçeneğiyle başlat, bir kayıt yükle ve **F8**'e bas. Panel ve kurulum 8 dilde; Türkçe yamayla birlikte de, tek başına da çalışır.
 - **Enshrouded Save Editor:** Kayıtları oyun kapalıyken düzenle; program kaydetmeden önce yedek alır. Arayüz ve yetenek ağacı Türkçe, eşya adları şimdilik İngilizce. Orijinal program [Nicolas Ferreira](https://github.com/nicolasferreiraxn/Enshrouded-Save-Editor)'nındır (MIT lisansı).
 - **Mist Survival:** Ekranın 16:10 ise oyunda 16:9 bir çözünürlük (ör. 1920×1080) seç; arayüz tam sığar.
 - **Permafrost:** v0.2, 7 Kasım 2026 oyun güncellemesine uyumludur. Oyunun dil ayarını **English** bırak; metinler Türkçe görünür. v0.1'i kurulum dosyasıyla kurduysan önce Denetim Masası'ndan kaldır. Oyun Erken Erişim'de; güncellemelerle gelen yeni metinler yama güncellenene kadar İngilizce görünebilir.
