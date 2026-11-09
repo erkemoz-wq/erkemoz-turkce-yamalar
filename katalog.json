@@ -84,7 +84,7 @@
     "it": "Lascia la lingua del gioco in inglese; i testi appaiono in turco. Il font del gioco non ha ğ, ı, İ e ş, quindi si usano g, i, I e s.",
     "ru": "Оставьте в игре английский язык — тексты будут на турецком. В шрифте игры нет ğ, ı, İ и ş, поэтому вместо них используются g, i, I и s."
    },
-   "durum": "kapali"
+   "durum": "aktif"
   },
   {
    "id": "ff-tr",
