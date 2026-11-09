@@ -1,6 +1,6 @@
 {
  "bicim": 1,
- "guncellendi": "2026-11-08",
+ "guncellendi": "2026-11-09",
  "oyunlar": [
   {
    "id": "anno-117-pax-romana",
@@ -83,7 +83,8 @@
     "pt": "Deixe o idioma do jogo em inglês; os textos aparecem em turco. A fonte do jogo não tem ğ, ı, İ e ş, por isso aparecem g, i, I e s.",
     "it": "Lascia la lingua del gioco in inglese; i testi appaiono in turco. Il font del gioco non ha ğ, ı, İ e ş, quindi si usano g, i, I e s.",
     "ru": "Оставьте в игре английский язык — тексты будут на турецком. В шрифте игры нет ğ, ı, İ и ş, поэтому вместо них используются g, i, I и s."
-   }
+   },
+   "durum": "kapali"
   },
   {
    "id": "ff-tr",
