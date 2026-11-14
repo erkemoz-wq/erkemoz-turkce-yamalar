@@ -225,9 +225,9 @@
    "id": "permafrost-tr",
    "oyun": "permafrost",
    "tur": "yama",
-   "surum": "0.2",
-   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/permafrost-v0.2/Permafrost_TurkceYama_v0.2_erkemoz.zip",
-   "sha256": "4f80429575d4b3a5f455297ac684f2709dfd81ed6134678a6d5f33e8ed559c23",
+   "surum": "0.3",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/permafrost-v0.3/Permafrost_TurkceYama_v0.3_erkemoz.zip",
+   "sha256": "ce31b534153e1d2ab768f2a87632811b82ed9a9fa99a6455376dc96b7410efd6",
    "boyut": 611394,
    "kok": "Permafrost_TurkceYama_erkemoz",
    "hedef": "Permafrost/Content/Paks/~mods",
@@ -238,10 +238,10 @@
     "Permafrost/Content/Paks/~mods/erkemoz_TurkceYama_P.pak": "1e9b762011e75d430e57c50f32b50af8a4ac9cb9ed70be97275cfe9c51acd562"
    },
    "uyumlu": [
-    "26381546"
+    "26560720"
    ],
    "kirilgan": true,
-   "durum": "kapali",
+   "durum": "aktif",
    "sayfa": "https://erkemoz.app/turkce-yamalar/permafrost/",
    "not": {
     "tr": "Oyunun dil ayarını English bırak; metinler Türkçe görünür. Oyun Erken Erişim'de; güncellemelerle gelen yeni metinler yama güncellenene kadar İngilizce kalabilir.",
