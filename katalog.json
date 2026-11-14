@@ -1,6 +1,6 @@
 {
  "bicim": 1,
- "guncellendi": "2026-11-09",
+ "guncellendi": "2026-11-14",
  "oyunlar": [
   {
    "id": "anno-117-pax-romana",
@@ -241,7 +241,7 @@
     "26381546"
    ],
    "kirilgan": true,
-   "durum": "aktif",
+   "durum": "kapali",
    "sayfa": "https://erkemoz.app/turkce-yamalar/permafrost/",
    "not": {
     "tr": "Oyunun dil ayarını English bırak; metinler Türkçe görünür. Oyun Erken Erişim'de; güncellemelerle gelen yeni metinler yama güncellenene kadar İngilizce kalabilir.",
