@@ -53,18 +53,18 @@
    "id": "anno117-tr",
    "oyun": "anno-117-pax-romana",
    "tur": "yama",
-   "surum": "1.0",
-   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/anno117-v1.0/Anno117_TurkceYama_v1.0_erkemoz.zip",
-   "sha256": "124acd1fd5d328bad26c9b6fe17990d89d1bebb5bb2e16f7f61e3e047fbe2b6b",
-   "boyut": 1486830,
-   "kok": "Anno117_TurkceYama_v1.0_erkemoz",
+   "surum": "1.1",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/anno117-v1.1/Anno117_TurkceYama_v1.1_erkemoz.zip",
+   "sha256": "0478a8588ffbf995f3979e74ee74235b4fdd417e7b905aad4b785fca0b07e92e",
+   "boyut": 1914217,
+   "kok": "Anno117_TurkceYama_v1.1_erkemoz",
    "hedef": "mods",
    "atla": [
     "KURULUM.txt"
    ],
    "dosyalar": {
-    "mods/TurkceYama-erkemoz/modinfo.jsonc": "cb9d6f35bf188bc67ca550fea27094a8e16c2bdb629464bccff49a17edf19897",
-    "mods/TurkceYama-erkemoz/data/base/config/gui/texts_english.xml": "d40b360aee6309de1280fbfa4c349078da15727403cfb6423b58692c2bec90aa"
+    "mods/TurkceYama-erkemoz/data/base/config/gui/texts_english.xml": "cb2f49c468884487f038d2d25c6b62a0131841ada59c2c373bf414b3e7af3f08",
+    "mods/TurkceYama-erkemoz/modinfo.jsonc": "17085019dda52e74c071b2105741f4245446df0af38ca52aec27b4545870ce3b"
    },
    "uyumlu": [
     "24988830"
@@ -84,7 +84,7 @@
     "it": "Lascia la lingua del gioco in inglese; i testi appaiono in turco. Il font del gioco non ha ğ, ı, İ e ş, quindi si usano g, i, I e s.",
     "ru": "Оставьте в игре английский язык — тексты будут на турецком. В шрифте игры нет ğ, ı, İ и ş, поэтому вместо них используются g, i, I и s."
    },
-   "durum": "kapali"
+   "durum": "aktif"
   },
   {
    "id": "ff-tr",
