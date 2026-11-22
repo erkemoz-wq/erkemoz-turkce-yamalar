@@ -1,6 +1,6 @@
 {
  "bicim": 1,
- "guncellendi": "2026-11-21",
+ "guncellendi": "2026-11-22",
  "oyunlar": [
   {
    "id": "anno-117-pax-romana",
@@ -46,6 +46,12 @@
    "ad": "Infection Free Zone",
    "steam": 1465460,
    "isaret": "Infection Free Zone.exe"
+  },
+  {
+   "id": "the-infected",
+   "ad": "The Infected",
+   "steam": 1360000,
+   "isaret": "TheInfected.exe"
   }
  ],
  "paketler": [
@@ -347,6 +353,64 @@
     "pt": "O carregador de mods BepInEx também é instalado. Inicie o jogo normalmente, carregue um save e pressione F8. O painel está em 8 idiomas e segue o idioma do jogo.",
     "it": "Viene installato anche il caricatore di mod BepInEx. Avvia il gioco come al solito, carica un salvataggio e premi F8. Il pannello è in 8 lingue e segue la lingua del gioco.",
     "ru": "Вместе с панелью ставится загрузчик модов BepInEx. Запустите игру как обычно, загрузите сохранение и нажмите F8. Панель на 8 языках и подстраивается под язык игры."
+   }
+  },
+  {
+   "id": "infected-hile",
+   "oyun": "the-infected",
+   "tur": "hile",
+   "surum": "1.0",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/theinfected-hile-v1.0/TheInfected_HilePaneli_v1.0_erkemoz.zip",
+   "sha256": "ebb64ccf90a18475239ad31b14463d668d2b75f9b9a48f38ce3705fa574da17a",
+   "boyut": 8789665,
+   "kok": "",
+   "hedef": "",
+   "atla": [
+    "KURULUM.txt",
+    "Okubeni_tr.txt",
+    "Okubeni_en.txt",
+    "Okubeni_de.txt",
+    "Okubeni_fr.txt",
+    "Okubeni_es.txt",
+    "Okubeni_pt.txt",
+    "Okubeni_it.txt",
+    "Okubeni_ru.txt",
+    "UE4SS_Lisans_MIT.txt"
+   ],
+   "dosyalar": {
+    "TheInfected/Binaries/Win64/dwmapi.dll": "21fafb3e49958e2b16721d57d5c1af3efcaaae6d91a430bb6124a67e80f5fb42",
+    "TheInfected/Binaries/Win64/ue4ss/LICENSE": "99e1d8f8b7cb68e8b2313380ae3b0c8115e39dfbc443fcf21fd67ab74ce1d57e",
+    "TheInfected/Binaries/Win64/ue4ss/UE4SS-settings.ini": "c96a3b1ac2f29f4aca3c72198eb557075ee30fc1d1186c332a025a8d2e66bd48",
+    "TheInfected/Binaries/Win64/ue4ss/UE4SS.dll": "3843d81a8280096b0de3c750eebf15507e374c250dc551cbf07e7be7acc1e2ba",
+    "TheInfected/Binaries/Win64/ue4ss/UE4SS_SDK_Backends/UE4SS.json": "6b8c1725ff59a318b812d5952f63107778b4ceb22b882b297a3666ee9e06c8ff",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/enabled.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/Scripts/arayuz.lua": "7e904deedff47bf225beb822948fa02537d097d2e46ed891f7024189560b9d82",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/Scripts/ayar.lua": "d887c050c52929b0d4a55448e5d04d144414647f4046556b29a0f59c9a20df04",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/Scripts/ceviri.lua": "afc61dd99792d8943acba009918331197dd5d71d88e7b94f244699ed6e6662af",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/Scripts/dil.lua": "0850a8b0a7fd3da82730f944844e315b60b2eaa10e7e8d17edcff4db17044cc4",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/Scripts/esya_sayfasi.lua": "468913ab4aad9e12d61ed1b2666de236b8e2ce583d70cb781fd3f13deaddf263",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/Scripts/esyalar.lua": "42994c9a5522efad84c45aed4b35d9c4249968396a6b572e1fd48e47be642f91",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/Scripts/main.lua": "a566c9216d3946b316d3604673de17af96f264c3b9b133e25ca5528ffee239b2",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/Scripts/oyun.lua": "0ecf25df6e3cd916fd9dc82c0e15be1fb141eead32976d789cc6b61582a7be10",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/Scripts/panel.lua": "463da31d187c82d943adb1e16cb8d3982f387014019b7b68bc69a93e1fa19944",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/Scripts/sayfalar.lua": "23312b90aae0951f9118eec719850332726426e294beb9226fb1837261c07bab",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/Scripts/surum.lua": "908fc7bcde0c88b94e300641f745650ab50ea9ff84bd0192d72ffb8c39c725de",
+    "TheInfected/Binaries/Win64/ue4ss/Mods/TheInfectedHilePaneli/Scripts/yerlesim.lua": "40f47f07fc52dc0a6c3a7b89ab4475c6def3534af48773a907f1e1b69fe67145"
+   },
+   "uyumlu": [
+    "23100209"
+   ],
+   "kirilgan": true,
+   "sayfa": "https://erkemoz.app/turkce-yamalar/the-infected-hile-paneli/",
+   "not": {
+    "tr": "Mod yükleyicisi UE4SS de birlikte kurulur. Oyunu her zamanki gibi başlat, bir kayıt yükle ve F7'ye bas. Panel 8 dilde, oyunun diline kendiliğinden uyar.",
+    "en": "The UE4SS mod loader is installed too. Start the game as usual, load a save and press F7. The panel speaks 8 languages and follows your game language.",
+    "de": "Der Mod-Loader UE4SS wird mitinstalliert. Starte das Spiel wie gewohnt, lade einen Spielstand und drücke F7. Das Panel gibt es in 8 Sprachen; es richtet sich nach der Spielsprache.",
+    "fr": "Le chargeur de mods UE4SS est installé aussi. Lance le jeu comme d'habitude, charge une sauvegarde et appuie sur F7. Le panneau existe en 8 langues et suit la langue du jeu.",
+    "es": "También se instala el cargador de mods UE4SS. Inicia el juego como siempre, carga una partida y pulsa F7. El panel está en 8 idiomas y sigue el idioma del juego.",
+    "pt": "O carregador de mods UE4SS também é instalado. Inicie o jogo normalmente, carregue um save e pressione F7. O painel está em 8 idiomas e segue o idioma do jogo.",
+    "it": "Viene installato anche il caricatore di mod UE4SS. Avvia il gioco come al solito, carica un salvataggio e premi F7. Il pannello è in 8 lingue e segue la lingua del gioco.",
+    "ru": "Вместе с панелью ставится загрузчик модов UE4SS. Запустите игру как обычно, загрузите сохранение и нажмите F7. Панель на 8 языках и подстраивается под язык игры."
    }
   }
  ],
