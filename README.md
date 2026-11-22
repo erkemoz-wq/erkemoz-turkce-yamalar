@@ -24,6 +24,7 @@
 | <img src="gorseller/farthestfrontier-hile.png" width="40"> | **Farthest Frontier Hile Paneli** (Steam, mod, 8 dil) | v1.2 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/farthestfrontier-hile-v1.2) |
 | <img src="gorseller/infectionfreezone-hile.png" width="40"> | **Infection Free Zone Hile Paneli** (Steam, mod, 8 dil) | v1.0 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/infectionfreezone-hile-v1.0) |
 | <img src="gorseller/theinfected-hile.png" width="40"> | **The Infected Hile Paneli** (Steam, mod, 8 dil) | v1.0 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/theinfected-hile-v1.0) |
+| <img src="gorseller/foundation-hile.png" width="40"> | **Foundation Hile Paneli** (Steam, mod, 8 dil; Belgeler'e kurulur) | v1.2 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/foundation-hile-v1.2) |
 | <img src="gorseller/enshrouded-editor.png" width="40"> | **Enshrouded Save Editor Türkçe** (kayıt düzenleyici; orijinali Nicolas Ferreira, MIT lisansı) | v1.0.2 | [Kurulum ve exe'siz paket](https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/tag/enshrouded-save-editor-v1.0.2) |
 
 ## Kurulum

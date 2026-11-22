@@ -52,6 +52,12 @@
    "ad": "The Infected",
    "steam": 1360000,
    "isaret": "TheInfected.exe"
+  },
+  {
+   "id": "foundation",
+   "ad": "Foundation",
+   "steam": 690830,
+   "isaret": "foundation.exe"
   }
  ],
  "paketler": [
@@ -411,6 +417,55 @@
     "pt": "O carregador de mods UE4SS também é instalado. Inicie o jogo normalmente, carregue um save e pressione F7. O painel está em 8 idiomas e segue o idioma do jogo.",
     "it": "Viene installato anche il caricatore di mod UE4SS. Avvia il gioco come al solito, carica un salvataggio e premi F7. Il pannello è in 8 lingue e segue la lingua del gioco.",
     "ru": "Вместе с панелью ставится загрузчик модов UE4SS. Запустите игру как обычно, загрузите сохранение и нажмите F7. Панель на 8 языках и подстраивается под язык игры."
+   }
+  },
+  {
+   "id": "foundation-hile",
+   "oyun": "foundation",
+   "tur": "hile",
+   "surum": "1.2",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/foundation-hile-v1.2/Foundation_HilePaneli_v1.2_erkemoz.zip",
+   "sha256": "e05862c5c8ee1fd94d911c92b2dc7b68e6ddaccc48989e9ed339ccea7571b260",
+   "boyut": 55547,
+   "yontem": "belgeler",
+   "belge_yolu": "Polymorph Games/Foundation",
+   "kok": "",
+   "hedef": "",
+   "atla": [
+    "KURULUM.txt"
+   ],
+   "artiklar": [
+    "mods/ErkemozHile/durum.txt",
+    "mods/ErkemozHile/panel_kaynaklar.json",
+    "mods/ErkemozHile/panel_durum.json",
+    "mods/ErkemozHile/panel_komut.txt",
+    "mods/ErkemozHile/panel_komut.tmp"
+   ],
+   "dosyalar": {
+    "moddev/erkemoz_hile.lua": "07bfd340c8d2bcb514b3fffd540685a846bb8556c0c88050ff76fda12650ed49",
+    "moddev/erkemoz_hile/ErkemozHilePaneli.exe": "3ae1bb50ab0706c6b54f2e1c687cb9894ea4fbec7cdf5a2f766484ef9c7189b6",
+    "mods/ErkemozHile/generated_ids.lua": "624bb393f90b22874318b10f0384c8abf0575111255a5ce576abbee88344dc21",
+    "mods/ErkemozHile/mod.json": "000a657c239b6b68460670da138bb15958582c9cbd2336b206a5d8f72b662c2f",
+    "mods/ErkemozHile/mod.lua": "490436ff61e87b80f258a4f1ade732d6a1d4c3e162e3ba34f0667f84ae8963f3",
+    "mods/ErkemozHile/scripts/bilesen.lua": "6e3fc17ba2a0825c20d1b3b21fa0dded5d21c382bd1c678df3575d4e31ebeccd",
+    "mods/ErkemozHile/scripts/hileler.lua": "264e61ea58da7c726de2df5cd47ca379056564b7fc913ae4cafd10d6df012dc8",
+    "mods/ErkemozHile/scripts/komut.lua": "fd0e83ad1f61067ab3727a22a2ec7bf97212a921d8d721f1810fc60e3cf4d0c5",
+    "mods/ErkemozHile/scripts/veriler.lua": "cf3d4b165c05d1a3cdb87ef4ce5caf39dd3f3d4e171ab17b7dabd708c5d9bd7e"
+   },
+   "uyumlu": [
+    "26490738"
+   ],
+   "kirilgan": true,
+   "sayfa": "https://erkemoz.app/turkce-yamalar/foundation-hile-paneli/",
+   "not": {
+    "tr": "Panel oyun klasörüne değil Belgeler\\Polymorph Games\\Foundation'a kurulur. Yeni oyunda ya da kayıt yüklerken mod listesinden “Erkemoz Hile Paneli”ni etkinleştir; köyün kurulunca F11'e bas. Panel 8 dilde, oyunun diline kendiliğinden uyar. Panel oyunun üstünde açılır; oyunla birlikte başlayıp kapanan küçük bir programdır, internete bağlanmaz.",
+    "en": "The panel goes into Documents\\Polymorph Games\\Foundation, not the game folder. Enable “Erkemoz Hile Paneli” in the mod list when you start a new game or load a save, then press F11 once your village is founded. The panel speaks 8 languages and follows your game language. The panel opens on top of the game; it's a small program that starts and exits with the game and never goes online.",
+    "de": "Das Panel wird nicht in den Spielordner, sondern nach Dokumente\\Polymorph Games\\Foundation installiert. Aktiviere „Erkemoz Hile Paneli“ in der Mod-Liste, wenn du ein neues Spiel startest oder einen Spielstand lädst, und drücke F11, sobald dein Dorf gegründet ist. Das Panel gibt es in 8 Sprachen; es richtet sich nach der Spielsprache. Das Panel öffnet sich über dem Spiel; es ist ein kleines Programm, das mit dem Spiel startet und endet und nie online geht.",
+    "fr": "Le panneau s'installe dans Documents\\Polymorph Games\\Foundation, pas dans le dossier du jeu. Active « Erkemoz Hile Paneli » dans la liste des mods en lançant une nouvelle partie ou en chargeant une sauvegarde, puis appuie sur F11 une fois ton village fondé. Le panneau existe en 8 langues et suit la langue du jeu. Le panneau s'ouvre par-dessus le jeu ; c'est un petit programme qui démarre et se ferme avec le jeu et ne se connecte jamais à Internet.",
+    "es": "El panel se instala en Documentos\\Polymorph Games\\Foundation, no en la carpeta del juego. Activa «Erkemoz Hile Paneli» en la lista de mods al empezar una partida nueva o cargar una guardada y pulsa F11 cuando hayas fundado tu aldea. El panel está en 8 idiomas y sigue el idioma del juego. El panel se abre encima del juego; es un pequeño programa que se inicia y se cierra con el juego y nunca se conecta a Internet.",
+    "pt": "O painel é instalado em Documentos\\Polymorph Games\\Foundation, não na pasta do jogo. Ative “Erkemoz Hile Paneli” na lista de mods ao começar um jogo novo ou carregar um save e pressione F11 depois de fundar sua vila. O painel está em 8 idiomas e segue o idioma do jogo. O painel abre por cima do jogo; é um pequeno programa que inicia e fecha junto com o jogo e nunca se conecta à internet.",
+    "it": "Il pannello si installa in Documenti\\Polymorph Games\\Foundation, non nella cartella del gioco. Attiva “Erkemoz Hile Paneli” nell'elenco delle mod quando inizi una nuova partita o carichi un salvataggio, poi premi F11 dopo aver fondato il villaggio. Il pannello è in 8 lingue e segue la lingua del gioco. Il pannello si apre sopra il gioco; è un piccolo programma che si avvia e si chiude con il gioco e non si collega mai a Internet.",
+    "ru": "Панель ставится не в папку игры, а в Документы\\Polymorph Games\\Foundation. Включите «Erkemoz Hile Paneli» в списке модов при начале новой игры или загрузке сохранения и нажмите F11, когда деревня будет основана. Панель на 8 языках и подстраивается под язык игры. Панель открывается поверх игры; это небольшая программа, которая запускается и закрывается вместе с игрой и не выходит в интернет."
    }
   }
  ],
