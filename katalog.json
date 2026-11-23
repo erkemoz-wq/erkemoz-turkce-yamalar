@@ -1,6 +1,6 @@
 {
  "bicim": 1,
- "guncellendi": "2026-11-22",
+ "guncellendi": "2026-11-24",
  "oyunlar": [
   {
    "id": "anno-117-pax-romana",
@@ -303,10 +303,10 @@
    "id": "ifz-hile",
    "oyun": "infection-free-zone",
    "tur": "hile",
-   "surum": "1.0",
-   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/infectionfreezone-hile-v1.0/InfectionFreeZone_HilePaneli_v1.0_erkemoz.zip",
-   "sha256": "5f3bf849098514d92351ab3ccd1b636accdfd0d1eb659ed02581016fd77bae99",
-   "boyut": 717573,
+   "surum": "1.1",
+   "indir": "https://github.com/erkemoz-wq/erkemoz-turkce-yamalar/releases/download/infectionfreezone-hile-v1.1/InfectionFreeZone_HilePaneli_v1.1_erkemoz.zip",
+   "sha256": "99cabf96e60c63ca9520294e81de98b8adf48affe87f4dbf0cbd74bbd2d4cb25",
+   "boyut": 719860,
    "kok": "",
    "hedef": "",
    "atla": [
@@ -322,6 +322,9 @@
    ],
    "dosyalar": {
     ".doorstop_version": "75a2f501000d4fe28f74bc7ee66dae5581959d28b6c44f0c1b0c05cd5ba261e6",
+    "BepInEx_Lisans_LGPL-2.1.txt": "2c4b12be9dbe252c2b77896cf28f42f9d80fe4f1bfe4b02f07b5a79d7c656a0c",
+    "doorstop_config.ini": "4d5c6dfa0f771c6a5b1b0c559aca0bd0ece7d08b08fff894708dc3b73ce73cfc",
+    "winhttp.dll": "8c6cdbc38836dee87e3368f5de1994d7c0ccebf29e4ce7aba3c0981f9375412c",
     "BepInEx/core/0Harmony.dll": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031",
     "BepInEx/core/0Harmony.xml": "d1f02fc3ada3a13da307de421225bfe56ebe24064370980979391c4be021672f",
     "BepInEx/core/0Harmony20.dll": "c755a5ab2712915a32f9a850d580a8c1b70ff1653bc76600f2767aa8ffccc663",
@@ -340,13 +343,10 @@
     "BepInEx/core/MonoMod.RuntimeDetour.xml": "54887808960d156550b37d602d08847607aa9e908d039f2765fb0b5e79394aa4",
     "BepInEx/core/MonoMod.Utils.dll": "9d1495f147ac93c4f81f84538c1a326e8f8a6aefc78d6289d798f3ce1162c5e9",
     "BepInEx/core/MonoMod.Utils.xml": "0577b362023a3432d6e8d7934c5eddc3e08fdbb19e191af083e341562c5ede38",
-    "BepInEx/plugins/IfzHilePaneli.dll": "e2a934d7b54cc58ae9f10577b201d0dfbb2d0a9dcae95be13774fd992797dd45",
-    "BepInEx_Lisans_LGPL-2.1.txt": "2c4b12be9dbe252c2b77896cf28f42f9d80fe4f1bfe4b02f07b5a79d7c656a0c",
-    "doorstop_config.ini": "4d5c6dfa0f771c6a5b1b0c559aca0bd0ece7d08b08fff894708dc3b73ce73cfc",
-    "winhttp.dll": "8c6cdbc38836dee87e3368f5de1994d7c0ccebf29e4ce7aba3c0981f9375412c"
+    "BepInEx/plugins/IfzHilePaneli.dll": "156b38c94163f2d44c55b29527fcb5582c65de540c96956ee1d8308cfcaa3452"
    },
    "uyumlu": [
-    "26104777"
+    "26831707"
    ],
    "kirilgan": false,
    "sayfa": "https://erkemoz.app/turkce-yamalar/infection-free-zone-hile-paneli/",
@@ -359,7 +359,8 @@
     "pt": "O carregador de mods BepInEx também é instalado. Inicie o jogo normalmente, carregue um save e pressione F8. O painel está em 8 idiomas e segue o idioma do jogo.",
     "it": "Viene installato anche il caricatore di mod BepInEx. Avvia il gioco come al solito, carica un salvataggio e premi F8. Il pannello è in 8 lingue e segue la lingua del gioco.",
     "ru": "Вместе с панелью ставится загрузчик модов BepInEx. Запустите игру как обычно, загрузите сохранение и нажмите F8. Панель на 8 языках и подстраивается под язык игры."
-   }
+   },
+   "durum": "aktif"
   },
   {
    "id": "infected-hile",
